@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="git.course.mapreduce.getAverageEvaluation">
+    <output-path>$PROJECT_DIR$/out/artifacts/git_course_mapreduce_getAverageEvaluation</output-path>
+    <root id="archive" name="git.course.mapreduce.getAverageEvaluation.jar">
+      <element id="directory" name="git">
+        <element id="directory" name="course">
+          <element id="directory" name="mapreduce">
+            <element id="file-copy" path="$PROJECT_DIR$/target/classes/git/course/mapreduce/getAverageEvaluation.class" />
+            <element id="file-copy" path="$PROJECT_DIR$/target/classes/git/course/mapreduce/getAverageEvaluation$Reduce.class" />
+            <element id="file-copy" path="$PROJECT_DIR$/target/classes/git/course/mapreduce/getAverageEvaluation$Map.class" />
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
